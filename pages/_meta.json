@@ -9,13 +9,13 @@
   "login": {
     "title": "Login",
     "type": "page",
-    "href": "https://app.embedbase.xyz/login",
+    "href": "https://app.withai.online/login",
     "newWindow": true
   },
   "signup": {
     "title": "Signup ↗",
     "type": "page",
-    "href": "https://embedbase.xyz",
+    "href": "https://withai.online",
     "newWindow": true
   }
 }
